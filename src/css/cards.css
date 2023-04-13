@@ -1,0 +1,15 @@
+.card {
+    border-radius: 20px;
+    border: solid 2px #8A96A8;
+    height: 600px;
+}
+
+.card p {
+    font-size: 1rem;
+}
+
+.card img {
+    /* width: 300px; */
+    /* padding: 0, ; */
+    height: 180px;
+}

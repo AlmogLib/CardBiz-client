@@ -1,0 +1,23 @@
+nav {
+    background-color: #374961;
+}
+
+li .nav-link {
+    color: #ECEDF0;
+    font-size: 1.2rem;
+    margin: 0 20px;
+    font-family: 'Fjalla One';
+}
+
+.navbar-brand {
+    color: #ECEDF0;
+    font-size: 1.2rem;
+    margin-left: 40px;
+}
+
+.btn-outline {
+    color: #ECEDF0;
+    border-color: #5D6B7F;
+    font-family: 'Fjalla One';
+    padding-inline: 18px;
+}
